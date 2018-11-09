@@ -1,0 +1,23 @@
+
+.Legal-Notice{
+  width:100%;
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Block-Info{
+  width:50%;
+  height: auto;
+padding: 30px;
+font-family: 'Quiksand','sans-serif';
+  display:flex;
+  flex-direction: column;
+  margin-left:10%;
+  
+}
+.Title-lign{
+  display: flex;
+  font-family: 'Kaushian Script','cursive';
+  justify-content:center;
+}
